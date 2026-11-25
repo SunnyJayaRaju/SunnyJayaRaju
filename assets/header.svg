@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="190" viewBox="0 0 880 190" role="img" aria-labelledby="title desc">
+  <title id="title">SunnyJayaRaju</title>
+  <desc id="desc">I build secure, reliable systems: APIs, Automation &amp; Developer Tooling.</desc>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .bg { fill: #0d1117; }
+    .name { fill: #f0f6fc; }
+    .accent { fill: #8b7bff; }
+    .line { fill: #c9d1d9; }
+    .note { fill: #8b949e; }
+    @media (prefers-color-scheme: light) {
+      .bg { fill: #f6f7fb; }
+      .name { fill: #0e1624; }
+      .accent { fill: #5b3df5; }
+      .line { fill: #30363d; }
+      .note { fill: #57606a; }
+    }
+  </style>
+  <rect class="bg" x="1" y="1" width="878" height="188" rx="18"/>
+  <text class="name" x="40" y="82" font-size="46" font-weight="700" letter-spacing="-1">Sunny<tspan class="accent">JayaRaju</tspan></text>
+  <text class="line" x="40" y="126" font-size="21">I build secure, reliable systems: APIs, Automation &amp; Developer Tooling.</text>
+  <text class="note" x="40" y="158" font-size="14">Also known as MaveRick · open-source tooling, API gateways and engineering notes</text>
+</svg>
