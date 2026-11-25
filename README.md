@@ -19,9 +19,9 @@ I build secure, reliable systems: APIs, Automation & Developer Tooling. My work 
 | workstation-framework | Reproducible macOS developer workstation setup in Bash.                           | [Repository](https://github.com/SunnyJayaRaju/workstation-framework) |
 
 ```mermaid
-flowchart LR
-  A["oc-model-manager<br/>releases"] -->|"publish-release-to-tap.yml"| B["homebrew-ocprobe<br/>Formula/ocprobe.rb"]
-  B --> C["brew tap SunnyJayaRaju/ocprobe<br/>brew install ocprobe"]
+flowchart TD
+  A["🧰 oc-model-manager<br/>releases"] -->|"📤 release"| B["🍺 homebrew-ocprobe<br/>Formula/ocprobe.rb"]
+  B --> C["📦 brew install ocprobe"]
 ```
 
 The tap is generated from the source repository, so the Homebrew package follows each release.
