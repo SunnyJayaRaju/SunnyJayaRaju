@@ -11,8 +11,15 @@
 ## 👋 Quick Intro
 I'm focused on how systems communicate through **APIs, Gateways, and Integration Patterns**. Most of my work is around **Apigee** and **API Security**, where I aim to blend enterprise design with hands-on experimentation. I break things, fix them, and document the path so it scales for others too.
 
-> **Current focus:** Apigee X, OAuth2 identity flows, and CI/CD automation.  
+> **Current focus:** API management (Apigee X, OAuth2) and developer tooling: CI, security checks and release automation.  
 > Building proxies is one thing. Building them to be **secure**, **reliable**, and **scalable** is the real craft.
+
+---
+
+## 🧰 Developer tooling & automation
+- [oc-model-manager](https://github.com/SunnyJayaRaju/oc-model-manager) — Bash CLI that automates the full model-catalog lifecycle: diffing, probing, safety-gated apply and monitoring.
+- [homebrew-ocprobe](https://github.com/SunnyJayaRaju/homebrew-ocprobe) — Homebrew tap for ocprobe, the OpenCode Model Probe.
+- [workstation-framework](https://github.com/SunnyJayaRaju/workstation-framework) — a structured toolkit for building and maintaining a reproducible macOS development environment.
 
 ---
 
